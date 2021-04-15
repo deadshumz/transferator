@@ -13,3 +13,6 @@ REQUIREMENTS
 ```sh
   https://www.python.org/downloads/
 ```
+WHAT'S NEXT
+------------
+I want to do binary to decimal and more..
