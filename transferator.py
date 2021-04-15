@@ -18,3 +18,5 @@ z = '' # Create an empty string P.s. idk how to do better :D
 for i in result: # Fill the string with numbers from the expanded list
     z+=str(i)
 print(str(y) + ' in binary: -' + str(z)) if y < 0 else print(str(y) + ' in binary: ' + str(z)) # We look at what was the input < or > 0 and display the result
+
+# P.s. WIP. All rights are reserved
